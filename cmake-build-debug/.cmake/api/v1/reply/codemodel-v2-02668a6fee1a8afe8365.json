@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "shortest_pair_path_floyd",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "shortest_pair_path_floyd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shortest_pair_path_floyd-Debug-b27a508bdf431e5a5b6e.json",
+					"name" : "shortest_pair_path_floyd",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/aksrivas/Documents/University/Gevorder/shortest_pair_path_floyd/cmake-build-debug",
+		"source" : "/Users/aksrivas/Documents/University/Gevorder/shortest_pair_path_floyd"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
